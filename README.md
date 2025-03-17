@@ -1,0 +1,1 @@
+# StrategyFactoryPattern
